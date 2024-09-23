@@ -10,5 +10,11 @@
 .body_text {
     color: 838383;
     font-size: medium;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
+.body_text:last-child {
+    margin-bottom: 60px;
+}
+
 
