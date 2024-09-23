@@ -1,0 +1,14 @@
+.left_line {
+    width: 20%;
+    height: 100%;
+    background-color: black;
+}
+.Menu_word {
+    color: 575656;
+    font-size: x-small;
+}
+.body_text {
+    color: 838383;
+    font-size: medium;
+}
+
